@@ -1,16 +1,32 @@
-### Hi there 👋
+<a href="https://twitter.com/wc3po">
+  <img align="left" alt="Wil Collins | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/wilcollinsvt/">
+  <img align="left" alt="Wil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**wilcollins/wilcollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=wilcollins)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Favorite Languages**  
+
+<span>
+<img src="resources/logos/go.svg" width="35" title="Go" />
+<img src="resources/logos/typescript.svg" width="35" title="Typesript" />
+<img src="resources/logos/java.svg" width="35" title="Java" />
+<img src="resources/logos/python.svg" width="35" title="Python" />
+</span>
+
+**Favorite Tools & Frameworks**  
+
+<span>
+<img src="resources/logos/nodejs.svg" width="35" title="NodeJs" />
+<img src="resources/logos/react.svg" width="35" title="ReactJS" />
+<img src="resources/logos/spring.svg" width="35" title="Spring" />
+<img src="resources/logos/graphql.svg" width="35" title="GraphQL" />
+<img src="resources/logos/postgres.svg" width="35" title="Postgres" />
+<img src="resources/logos/git.svg" width="35" title="Git" />
+</span>
+

@@ -23,7 +23,6 @@
 <span>
 <img src="resources/logos/nodejs.svg" width="35" title="NodeJs" />
 <img src="resources/logos/react.svg" width="35" title="ReactJS" />
-<img src="resources/logos/spring.svg" width="35" title="Spring" />
 <img src="resources/logos/graphql.svg" width="35" title="GraphQL" />
 <img src="resources/logos/postgres.svg" width="35" title="Postgres" />
 <img src="resources/logos/git.svg" width="35" title="Git" />

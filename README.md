@@ -14,9 +14,8 @@
 
 <span>
 <img src="resources/logos/go.svg" width="35" title="Go" />
-<img src="resources/logos/typescript.svg" width="35" title="Typesript" />
-<img src="resources/logos/java.svg" width="35" title="Java" />
 <img src="resources/logos/python.svg" width="35" title="Python" />
+<img src="resources/logos/typescript.svg" width="35" title="Typesript" />
 </span>
 
 **Favorite Tools & Frameworks**  

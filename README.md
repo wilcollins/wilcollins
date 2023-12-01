@@ -18,6 +18,7 @@
 <span>
 <img src="resources/logos/go.svg" width="100" title="Go" />
 <img src="resources/logos/python.svg" width="100" title="Python" />
+<img src="resources/logos/ruby.png" width="100" title="Ruby" />
 </span>
 
 <br>

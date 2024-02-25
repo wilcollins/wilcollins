@@ -1,3 +1,12 @@
+**Links**
+
+<span>
+  <a href="https://www.linkedin.com/in/wilcollinsvt/" target="_blank"><img src="resources/logos/linkedin.svg" width="100" title="LinkedIn" /></a>
+</span>
+
+<br>
+<hr>
+
 **Distributed Systems**
 
 <span>

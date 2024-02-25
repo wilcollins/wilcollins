@@ -19,6 +19,7 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img src="resources/logos/tensorflow.svg" width="100" title="TensorFlow" /></a>
   <a href="https://numpy.org/" target="_blank"><img src="resources/logos/numpy.svg" width="100" title="NumPy" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="resources/logos/scikit-learn.svg" width="100" title="Scikit-Learn" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="resources/logos/jupyter.svg" width="100" title="Jupyter" /></a>
 </span>
 
 <br>

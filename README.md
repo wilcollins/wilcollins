@@ -1,12 +1,3 @@
-**Links**
-
-<span>
-  <a href="https://www.linkedin.com/in/wilcollinsvt/" target="_blank"><img src="resources/logos/linkedin.svg" width="100" title="LinkedIn" /></a>
-</span>
-
-<br>
-<hr>
-
 **Distributed Systems**
 
 <span>
@@ -41,4 +32,14 @@
   <a href="https://kubernetes.io/" target="_blank"><img src="resources/logos/kubernetes.svg" width="100" title="Kubernetes" /></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="resources/logos/terraform.svg" width="100" title="Terraform" /></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="resources/logos/ansible.svg" width="100" title="Ansible" /></a>
+</span>
+
+
+<br>
+<hr>
+
+**Links**
+
+<span>
+  <a href="https://www.linkedin.com/in/wilcollinsvt/" target="_blank"><img src="resources/logos/linkedin.svg" width="100" title="LinkedIn" /></a>
 </span>

@@ -3,6 +3,7 @@
 <span>
   <a href="https://golang.org/" target="_blank"><img src="resources/logos/go.svg" width="100" title="Go" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="resources/logos/aws.svg" width="100" title="AWS" /></a>
+  <a href="https://rabbitmq.com/" target="_blank"><img src="resources/logos/rabbitmq.svg" width="100" title="RabbitMQ" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="resources/logos/postgres.svg" width="100" title="Postgres" /></a>
   <a href="https://redis.io/" target="_blank"><img src="resources/logos/redis.svg" width="100" title="Redis" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="resources/logos/docker.svg" width="100" title="Docker" /></a>

@@ -1,48 +1,11 @@
-<h1><i>a few of my favorite things</i></h1>
+<h2 align="center" style="color: #00FF00; font-family: 'Courier New', Courier, monospace; border-bottom: 1px solid #00FF00; padding-bottom: 5px;">Preferred Toolkit</h2>
 
-**Distributed Systems**
-
-<span>
-  <a href="https://golang.org/" target="_blank"><img src="resources/logos/go.svg" width="100" title="Go" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="resources/logos/aws.svg" width="100" title="AWS" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="resources/logos/postgres.svg" width="100" title="Postgres" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="resources/logos/redis.svg" width="100" title="Redis" /></a>
-  <a href="https://rabbitmq.com/" target="_blank"><img src="resources/logos/rabbitmq.svg" width="100" title="RabbitMQ" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="resources/logos/docker.svg" width="100" title="Docker" /></a>
-</span>
-
+<p style="font-family: 'Courier New', Courier, monospace; color: #00FF00; line-height: 1.8;">
+💻 <b>Distributed Systems:</b> <a href="https://golang.org/" target="_blank">Go</a> | <a href="https://aws.amazon.com/" target="_blank">AWS</a> | <a href="https://www.postgresql.org/" target="_blank">Postgres</a> | <a href="https://redis.io/" target="_blank">Redis</a> | <a href="https://rabbitmq.com/" target="_blank">RabbitMQ</a> | <a href="https://www.docker.com/" target="_blank">Docker</a>
 <br>
-<hr>
-
-**ML/AI**
-
-<span>
-  <a href="https://www.python.org/" target="_blank"><img src="resources/logos/python.svg" width="100" title="Python" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="resources/logos/pytorch.svg" width="100" title="PyTorch" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="resources/logos/tensorflow.svg" width="100" title="TensorFlow" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="resources/logos/numpy.svg" width="100" title="NumPy" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="resources/logos/scikit-learn.svg" width="100" title="Scikit-Learn" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="resources/logos/jupyter.svg" width="100" title="Jupyter" /></a>
-  <a href="https://gymnasium.farama.org/" target="_blank"><img src="resources/logos/gymnasium.svg" width="100" title="Gymnasium" /></a>
-</span>
-
+🧠 <b>ML/AI:</b> <a href="https://www.python.org/" target="_blank">Python</a> | <a href="https://pytorch.org/" target="_blank">PyTorch</a> | <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a> | <a href="https://numpy.org/" target="_blank">NumPy</a> | <a href="https://scikit-learn.org/" target="_blank">Scikit-Learn</a> | <a href="https://jupyter.org/" target="_blank">Jupyter</a> | <a href="https://gymnasium.farama.org/" target="_blank">Gymnasium</a>
 <br>
-<hr>
-
-**DevOps**
-
-<span>
-  <a href="https://kubernetes.io/" target="_blank"><img src="resources/logos/kubernetes.svg" width="100" title="Kubernetes" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="resources/logos/terraform.svg" width="100" title="Terraform" /></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="resources/logos/ansible.svg" width="100" title="Ansible" /></a>
-</span>
-
-
+⚙️ <b>DevOps:</b> <a href="https://kubernetes.io/" target="_blank">Kubernetes</a> | <a href="https://www.terraform.io/" target="_blank">Terraform</a> | <a href="https://www.ansible.com/" target="_blank">Ansible</a>
 <br>
-<hr>
-
-**Links**
-
-<span>
-  <a href="https://www.linkedin.com/in/wilcollinsvt/" target="_blank"><img src="resources/logos/linkedin.svg" width="100" title="LinkedIn" /></a>
-</span>
+🔗 <b>Links:</b> <a href="https://www.linkedin.com/in/wilcollinsvt/" target="_blank">LinkedIn</a> | <a href="https://www.wilcollins.com/" target="_blank">My Site</a>
+</p>
